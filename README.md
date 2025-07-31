@@ -44,8 +44,6 @@
             </tr>
           </table>
         </td>
-
-      
         <td>
           <b>Gender:</b><br>
           <input type="radio" name="gender" value="male"> Male<br>
