@@ -48,7 +48,6 @@
           <b>Gender:</b><br>
           <input type="radio" name="gender" value="male"> Male<br>
           <input type="radio" name="gender" value="female"> Female<br><br>
-
           <b>Hobbies:</b><br>
           <input type="checkbox" name="hobbies" value="swimming"> Swimming<br>
           <input type="checkbox" name="hobbies" value="biking"> Biking<br>
